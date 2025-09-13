@@ -1,4 +1,6 @@
+#Github and git conflict
+#CSC 4110-assignment1 
 #Github and git
-CSC 4110-assignment1 <br>
-Humayra Nawshin<br>
-hl6384
+#CSC4110-assignment1
+##Humayra Nawshin<br>
+**hl6384**
